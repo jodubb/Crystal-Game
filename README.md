@@ -1,4 +1,4 @@
-Crystal Game
+#Crystal Game
 There are four crystals on the page, with randomly assigned hidden numbers for each round.
 There is a random number that will be shown to the player that they have to reach by clicking each crystal.
 The player score increases based on whichever crystal they click.
