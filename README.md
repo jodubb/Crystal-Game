@@ -7,3 +7,5 @@ The player score increases based on whichever crystal they click.
 If they exceed the computer's number they lose that round and all the numbers reset.
 If they meet the computer's number without going over, they win that round and all the numbers reset.
 Have Fun!
+
+Click to play: https://jodubb.github.io/Crystal-Game/
